@@ -4,6 +4,7 @@ public class Main1 {
 
         System.out.println("My first name is Sonja");
         System.out.println("Push");
+        System.out.println("commit1");
     }
 
 }
